@@ -34,12 +34,12 @@ const questions = [
         name: 'test',
         message: 'How can you test your project?',
     },
-    //{
-        //type: 'list',
-        //name: 'license',
-        //message: 'What is the title of your project?',
-        //choices: [],
-    //},
+    {
+        type: 'list',
+        name: 'license',
+        message: 'What is the title of your project?',
+        choices: ["MIT", "Apache", "GNU GPL"],
+    },
     {
         type: 'input',
         name: 'github',
