@@ -62,9 +62,6 @@ ${data.usage}
 ## Credits
 
 ${data.credits}
-${data.github}
-${data.email}
-
 
 ${renderLicenseBadge(data.license)}
 ${renderLicenseSection(data.license)}

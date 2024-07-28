@@ -1,8 +1,8 @@
-# README Generator
+# Example Project
 
 ## Description 
 
-This project uses JavaScript and NodeJS to generate a README.md file. When ran through NodeJS, you will be asked questions about your current project and contact information. When all the questions are answered, they are written into a markdown file for a README
+This is an example project for an example
 
 ## Table of Contents
 
@@ -15,18 +15,15 @@ This project uses JavaScript and NodeJS to generate a README.md file. When ran t
 
 ## Installation
 
-This project uses JavaScript and NodeJS. The README generator also uses the "inquirer" module that needs to be intalled via NodeJS. 
+By installing things
 
 ## Usage
 
-To use this generator, you need to make sure you have NodeJS intalled and have the "inquirer" module installed. When the index.js is ran through NodeJS, youl will be asked a series of questions about your project you are currently working on and for your contact information. After the questions are answered, it will generate a markdown file with your answers formatted in the style of a README.
+By using things
 
 ## Credits
 
-This project was created by Alec Taber.
-AlecTaber
-alectaber12@gmail.com
-
+I did
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ## License
@@ -39,10 +36,10 @@ alectaber12@gmail.com
 
 ## Tests
 
-N/A
+Im testing it right now
 
 ## Contact
 
-- GitHub: [AlecTaber](https://github.com/AlecTaber)
-- Email: [alectaber12@gmail.com](mailto:alectaber12@gmail.com)
+- GitHub: [username](https://github.com/username)
+- Email: [email@address.com](mailto:email@address.com)
 
