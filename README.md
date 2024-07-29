@@ -2,6 +2,8 @@
 
 ## Description 
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 This project uses JavaScript and NodeJS to generate a README.md file. When ran through NodeJS, you will be asked questions about your current project and contact information. When all the questions are answered, they are written into a markdown file for a README
 
 ## Table of Contents
@@ -27,7 +29,6 @@ Here is a link to a video walking through how to use this README Generator https
 This project was created by Alec Taber.
 
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ## License
   
   This project uses the MIT License. For more information, visit [license link](https://opensource.org/licenses/MIT).
