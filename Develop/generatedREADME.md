@@ -1,7 +1,7 @@
 # Example Project
-
-## Description 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+## Description 
+
 This is an example project for an example
 
 ## Table of Contents
